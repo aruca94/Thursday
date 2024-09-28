@@ -1,3 +1,2 @@
 # Thursday
-# Thursday
-# Thursday
+# HELLO WORLD!
